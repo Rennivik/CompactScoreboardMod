@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "compact-scoreboard",
+	"version": "${version}",
+	"name": "Compact Scoreboard",
+	"description": "Compact scores on scoreboards",
+	"authors": [
+		"Rennivik"
+	],
+	"contact": {
+		"sources": "https://github.com/Rennivik/CompactScoreboardMod"
+	},
+	"license": "MIT",
+	"icon": "assets/compact-scoreboard/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.rennivik.compactscoreboard.CompactScoreboardClient"
+		]
+	},
+	"mixins": [
+		"compact-scoreboard.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

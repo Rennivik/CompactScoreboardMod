@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "dev.rennivik.compactscoreboard.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+      "StyledFormatMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
