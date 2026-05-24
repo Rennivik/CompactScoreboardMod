@@ -5,7 +5,7 @@ Copyright (c) 2026 ADHDSquid
 IMPORTANT NOTICE
 This software is source-available only and is not open source. All rights not expressly granted are reserved by the copyright holder.
 
-This license is a legal agreement between you and the copyright holder. By downloading, copying, or using this Project after being presented with this license, you agree to be bound by its terms.
+This license is a legal agreement between you and the copyright holder. By downloading, copying, using, or accessing this Project in any form, you agree to be bound by its terms.
 
 1. DEFINITIONS
 
@@ -13,70 +13,66 @@ This license is a legal agreement between you and the copyright holder. By downl
 
 “Assets” means all non-code materials, including but not limited to artwork, textures, images, models, animations, audio, music, sound effects, fonts, branding, logos, and user interface designs.
 
-“Personal Use” means use of the Project solely by an individual for private, non-commercial purposes such as learning, experimentation, or personal entertainment. Personal Use does not include any use that:
+“Personal Use” means use of the Project by an individual for private, non-commercial purposes such as learning, experimentation, or personal entertainment. Personal Use does not include any use that:
 
-* is performed on behalf of or in connection with any business, employer, organization, client, or institution, even if performed outside working hours or on personal equipment;
+* is performed on behalf of or in connection with any business, employer, organization, client, or institution;
 * involves commercial activity, direct or indirect monetary gain, or revenue generation;
-* involves public hosting, deployment, distribution, or access by third parties.
+* involves using the Project as part of a paid service, hosted service, or publicly offered application.
 
-“Redistribute” means to publish, upload, share, transmit, sell, sublicense, lease, rent, package, mirror, or otherwise make the Project or any part of it available to any third party in any form.
+“Redistribute” means to publish, share, transmit, sell, sublicense, lease, rent, package, mirror, or otherwise make the Project or any part of it available to any third party as a standalone product or downloadable distribution intended for reuse, repackaging, or resale.
 
 2. GRANTED PERMISSIONS
 
 Subject to full compliance with this license, you are granted a limited, non-exclusive, non-transferable, revocable license to:
 
-* Access and view the Project for personal review and study;
-* Use the Project for Personal Use only;
-* Modify the Project solely for Personal Use and private execution;
-* Copy only minimal excerpts of code solely for reference within independently created personal projects, provided such use does not replicate, substitute, or reproduce any functional part of the Project and does not involve any form of redistribution.
+* Access, view, and study the Project, including via public or private source-code repositories (e.g. GitHub, GitLab)
+* Clone and download the Project for personal study and evaluation
+* Use the Project for Personal Use only
+* Modify the Project privately for Personal Use
+* Publish and host the Project in public source-code repositories for viewing, learning, and attribution purposes, provided the Project remains clearly credited to the original author and is not presented as original or independent work
+* Copy small excerpts of code for reference in independently created personal projects, provided such use does not replicate or substitute any substantial part of the Project and does not constitute redistribution
 
 3. RESTRICTIONS
 
 You may not, and may not permit others to:
 
-* Redistribute, publish, or make available the Project or any modified, derivative, or substantially similar version of it;
-* Upload the Project or any part of it to any repository, website, package registry, archive, or file-sharing service;
-* Use the Project in any commercial product, service, or revenue-generating activity;
-* Use the Project in work performed for or on behalf of any employer, client, or organization;
-* Publicly deploy, host, or provide access to the Project or its functionality;
-* Include the Project in any software distribution, template, framework, SDK, or bundled product;
-* Extract, reuse, repurpose, or redistribute any Assets, whether modified or unmodified, outside Personal Use;
-* Use the Project, in whole or in part, for any purpose involving machine learning, artificial intelligence, or automated systems, including but not limited to training, fine-tuning, evaluation, dataset creation, data extraction, or ingestion into models or systems, whether public, private, commercial, or non-commercial.
-* Remove, alter, or obscure any copyright, attribution, or license notices;
-* Claim authorship or ownership of the Project or any portion of it.
+* Redistribute, publish, or make available the Project or any modified, derivative, or substantially similar version of it as a standalone product
+* Repackage, resell, or redistribute the Project in any form intended to compete with or substitute for the original Project
+* Use the Project in any commercial product, service, or revenue-generating activity
+* Use the Project in work performed for or on behalf of any employer, client, or organization
+* Publicly deploy or host the Project as a standalone application, service, or product
+* Include the Project in any software distribution, template, framework, SDK, or bundled product
+* Extract, reuse, repurpose, or redistribute any Assets outside Personal Use
+* Use the Project for training, fine-tuning, or dataset creation for machine learning or AI systems
+* Remove, alter, or obscure any copyright or license notices
+* Claim ownership or authorship of the Project or its original content
 
 4. OWNERSHIP
 
-The Project is licensed, not sold.
-
-All rights, title, and interest in and to the Project remain with the copyright holder.
-
-No rights are granted except those expressly stated in this license. No implied rights are granted.
+The Project remains the sole property of the copyright holder. No ownership is transferred.
 
 5. TERMINATION
 
-This license automatically terminates upon any breach of its terms.
-
-Upon termination, you must immediately cease all use of the Project and delete all copies in your possession or control.
+This license terminates automatically upon violation of its terms. Upon termination, all rights are revoked and use must cease immediately.
 
 6. NO WARRANTY
 
-The Project is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, or availability.
+The Project is provided “AS IS”, without warranty of any kind, express or implied.
 
 7. LIMITATION OF LIABILITY
 
-To the maximum extent permitted by law, the copyright holder shall not be liable for any damages, losses, or claims arising from the use or inability to use the Project.
+To the maximum extent permitted by law, the copyright holder shall not be liable for any damages arising from use of the Project.
 
 8. GOVERNING LAW
 
-This license shall be governed by and interpreted in accordance with the laws of England and Wales.
+England and Wales.
 
 9. SEVERABILITY
 
-If any provision of this license is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+If any provision is held invalid, the remaining provisions remain in full force.
 
 10. ENTIRE AGREEMENT
 
-This license constitutes the entire agreement between you and the copyright holder regarding the Project and supersedes any prior statements or understandings.
+This document constitutes the entire agreement regarding the Project and supersedes any prior statements or understandings.
 
 All rights not expressly granted are reserved.
