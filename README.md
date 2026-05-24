@@ -9,3 +9,4 @@ Full numbers can be _temporarily_ shown by holding a configurable keybind.
 - 1,000,000,000 → 1B
 
 Designed to keep the scoreboard clean without removing detail when you need it.
+(i am also ADHDSquid, i did not steal this)
